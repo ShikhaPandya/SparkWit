@@ -16,4 +16,4 @@ A Django based project to dive into vast library of books, manga, and novels and
 
 7. Run app localy with: ```python manage.py runserver```.
 
-# Demo Images
+## Demo Images
