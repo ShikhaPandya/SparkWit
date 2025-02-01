@@ -18,4 +18,9 @@ A Django based project to dive into vast library of books, manga, and novels and
 
 ## Demo Images
 Image 1:
-https://github.com/ShikhaPandya/SparkWit/blob/main/SparkWit%20Demo.png?raw=true
+![SparkWit Demo](https://github.com/user-attachments/assets/90e3db46-359f-4246-b831-8c3914d1cd36)
+
+Image 2:
+![SparkWit DemoV2](https://github.com/user-attachments/assets/74730650-9873-4c7f-a9d5-27462994893f)
+
+
