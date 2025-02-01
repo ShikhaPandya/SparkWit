@@ -2,7 +2,7 @@
 A Django based project to dive into vast library of books, manga, and novels and discover new worls, characters and ideas.
 
 # Setup
-1. Git Clone the project with: '''git clone https://github.com/ShikhaPandya/SparkWit.git'''.
+1. Git Clone the project with: ```python git clone https://github.com/ShikhaPandya/SparkWit.git```.
 2. Move to the base directory: cd SparkWit
 3. Create a new python enveronment with: python -m venv env.
 4. Activate enveronment with: env\Scripts\activate on windows, or source env/bin/activate on Mac and Linux.
