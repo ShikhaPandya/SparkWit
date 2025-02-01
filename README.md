@@ -1,5 +1,5 @@
 # Django Web Project - SparkWit
-A Django based project to dive into vast library of books, manga, and novels and discover new worls, characters and ideas. Your next great adventure awaits.
+A Django based project where you can discover new authors, explore different genres, and connect with like-minded individuals. From humble beginnings, Sparkwit wishes to grown into a vibrant online community, dedicated to promoting literacy, diversity, and inclusivity in the world of reading.
 
 ## Setup
 1. Git Clone the project with: ```git clone https://github.com/ShikhaPandya/SparkWit.git```.
